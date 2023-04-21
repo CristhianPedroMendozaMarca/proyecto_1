@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 20 abr. 2023, 22:23:21
+    Document   : Servicios
+    Created on : 20 abr. 2023, 22:54:49
     Author     : CRISTHIAN
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina Principal</h1>
-        <%@include file = "menu.jsp" %>
+        <h1>Hello World!</h1>
     </body>
 </html>
