@@ -12,6 +12,14 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>SERVICIOS</h1>
+        <%@include file = "menu.jsp" %>
+        <p>
+            Es un hecho establecido hace demasiado tiempo que un lector se
+            distraerá con el contenido del texto de un sitio mientras que mira
+            su diseño. El punto de usar Lorem Ipsum es que tiene una distribución 
+            más o menos normal de las letras 
+        </p>
+       
     </body>
 </html>
